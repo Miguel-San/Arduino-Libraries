@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+brushlessMt	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init	KEYWORD2
+setRange	KEYWORD2
+setVel	KEYWORD2
+powerOff	KEYWORD2
+getVel	KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
